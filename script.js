@@ -1,0 +1,12 @@
+var num = prompt("Enter your any number")
+alert(num + " X " + 1 + " = " + num*1 )
+alert(num + " X " + 2 + " = " + num*2 )
+alert(num + " X " + 3 + " = " + num*3 )
+alert(num + " X " + 4 + " = " + num*4 )
+alert(num + " X " + 5 + " = " + num*5 )
+alert(num + " X " + 6 + " = " + num*6 )
+alert(num + " X " + 7 + " = " + num*7 )
+alert(num + " X " + 8 + " = " + num*8 )
+alert(num + " X " + 9 + " = " + num*9 )
+alert(num + " X " + 10 + " = " + num*10)
+
